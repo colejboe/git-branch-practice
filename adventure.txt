@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bong
+=======
+Bing
+>>>>>>> b071a9154efc96c1ba42460dbd9b7b3683b56344
 Hoopla
